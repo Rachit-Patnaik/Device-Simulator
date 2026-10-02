@@ -352,4 +352,3 @@ B.Tech, Computer Science & Engineering (Data Science)
 ITER, Siksha 'O' Anusandhan University, Bhubaneswar
 LinkedIn: [linkedin.com/in/rachit-patnaik-87933a332](https://linkedin.com/in/rachit-patnaik-87933a332)
 
-*Capstone project for the 20-day training program covering Linux, C++, System Programming, and Computer Architecture.*
